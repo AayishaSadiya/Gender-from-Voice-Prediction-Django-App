@@ -1,2 +1,3 @@
 # Gender from Voice Prediction Django App
  
+In our Gender Prediction Django App project, we use voice data to predict gender using features like pitch and frequency. After cleaning and organizing the data, we trained machine learning models including the Support Vector Classifier (SVC) and the Random Forest Classifier (RFC) which demonstrated strong performance, achieving approximately 97-100% accuracy. Subsequently, we saved the RFC model's knowledge and built a user-friendly Django app for straightforward gender predictions.
